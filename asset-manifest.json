@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/senayberhe/static/css/main.bf9aeb0e.css",
+    "main.js": "/senayberhe/static/js/main.54aafbdb.js",
+    "static/media/news.png": "/senayberhe/static/media/news.51439179fb611dbbc400.png",
+    "static/media/shelter.png": "/senayberhe/static/media/shelter.0ae0fda60971cc0e12a4.png",
+    "static/media/me.png": "/senayberhe/static/media/me.bae8c4fdfea25e10e429.png",
+    "static/media/fake.png": "/senayberhe/static/media/fake.8e617936ab1f7320886e.png",
+    "static/media/todo.png": "/senayberhe/static/media/todo.5bff4a5396a3b8a42ced.png",
+    "static/media/cv.pdf": "/senayberhe/static/media/cv.82cf02170599d07714c9.pdf",
+    "static/media/math.png": "/senayberhe/static/media/math.dda088e8d9f35030227c.png",
+    "static/media/bookstore.png": "/senayberhe/static/media/bookstore.9ccca64e16bf562c3108.png",
+    "index.html": "/senayberhe/index.html",
+    "main.bf9aeb0e.css.map": "/senayberhe/static/css/main.bf9aeb0e.css.map",
+    "main.54aafbdb.js.map": "/senayberhe/static/js/main.54aafbdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9aeb0e.css",
+    "static/js/main.54aafbdb.js"
+  ]
+}
